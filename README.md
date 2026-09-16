@@ -2,7 +2,7 @@
 
 A small browser experiment. Thirty visual choices, one locked advertising prediction, no microphone access.
 
-The public version is a single file in `docs/index.html`. It runs locally in the browser and deploys through GitHub Pages.
+The public version is a single file in `out/index.html`. It runs locally in the browser and deploys through GitHub Pages.
 
 ## Model
 
